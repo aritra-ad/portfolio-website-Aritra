@@ -27,6 +27,12 @@ const projects = [
     tools: "React.js, Next.js, Tailwind CSS",
     description: "Built SEO-friendly landing pages, increasing organic traffic by 20% post-launch.",
     link: "https://web-project-4.vercel.app/",
+  },
+  {
+    title: " Website Whole (Next.js, Tailwind)",
+    tools: "React.js, React-Router, Tailwind CSS",
+    description: "Built SEO-friendly Website",
+    link: "https://music-f-six.vercel.app/",
   }
 ]
 
