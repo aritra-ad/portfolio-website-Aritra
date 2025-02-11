@@ -29,7 +29,7 @@ const projects = [
     link: "https://web-project-4.vercel.app/",
   },
   {
-    title: " Website Whole (Next.js, Tailwind)",
+    title: " Website Whole (ReactJS, Tailwind)",
     tools: "React.js, React-Router, Tailwind CSS",
     description: "Built SEO-friendly Website",
     link: "https://music-f-six.vercel.app/",
