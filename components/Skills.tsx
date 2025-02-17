@@ -4,10 +4,26 @@ import { motion } from 'framer-motion'
 import { useInView } from 'react-intersection-observer'
 
 const skills = [
-  "HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Next.js", "Redux", "React Hooks",
-  "Bootstrap", "Tailwind CSS", "Git", "GitHub", "VSCode", "Figma", "Photoshop",
-  "Chrome DevTools", "Cross-functional Collaboration", "Code Optimization",
-  "Agile Development", "Client-Focused Design"
+  // Languages
+  "HTML5", "CSS3", "JavaScript (ES6+)",
+  
+  // Frontend
+  "React.js", "Next.js", "Redux", "Axios", "Framer Motion",
+  
+  // Styling
+  "Tailwind CSS", "Bootstrap",
+  
+  // Performance
+  "Lazy Loading", "Lighthouse", "PageSpeed Insights",
+  
+  // Build Tools
+  "Vite", "Babel", "ESLint", "Prettier",
+  
+  // Version Control
+  "Git", "GitHub",
+  
+  // Deployment
+  "Vercel"
 ]
 
 export default function Skills() {
