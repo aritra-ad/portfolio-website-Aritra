@@ -32,7 +32,7 @@ const projects = [
     title: " Website Whole (ReactJS, Tailwind)",
     tools: "React.js, React-Router, Tailwind CSS",
     description: "Built SEO-friendly Website",
-    link: "https://music-f-six.vercel.app/",
+    link: "https://music-fs-jc87.vercel.app/",
   }
 ]
 
