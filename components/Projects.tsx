@@ -5,34 +5,34 @@ import { ExternalLink } from 'lucide-react'
 
 const projects = [
   {
-    title: "Landing Pages (HTML, CSS, Bootstrap)",
-    tools: "HTML, CSS, Bootstrap",
-    description: "Created responsive landing pages, improving load times by 15% through asset optimization.",
-    link: "https://aritra-ad.github.io/web-project-1/",
-  },
-  {
-    title: "Landing Pages (React.js, Bootstrap)",
+    title: "Landing Page with React, Bootstrap, and React Hooks",
     tools: "React.js, Bootstrap, React Hooks",
-    description: "Designed and implemented responsive landing pages, boosting conversion rates by 40% for marketing campaigns.",
+    description: "A dynamic landing page showcasing responsive design with React and Bootstrap.",
     link: "https://aritra-ad.github.io/web-project-2/",
   },
   {
-    title: "Landing Pages (React.js, Tailwind)",
-    tools: "React.js, Tailwind CSS, React Hooks",
-    description: "Transformed Figma designs into responsive pages, reducing load times by 18% using Tailwind CSS and React Hooks.",
-    link: "https://aritra-ad.github.io/web-project-3/",
-  },
-  {
-    title: "Landing Pages (Next.js, Tailwind)",
-    tools: "React.js, Next.js, Tailwind CSS",
-    description: "Built SEO-friendly landing pages, increasing organic traffic by 20% post-launch.",
-    link: "https://web-project-4.vercel.app/",
-  },
-  {
-    title: " Website Whole (ReactJS, Tailwind)",
-    tools: "React.js, React-Router, Tailwind CSS",
-    description: "Built SEO-friendly Website",
+    title: "Website with React, Tailwind, React Router, and React Hooks",
+    tools: "React.js, Tailwind CSS, React Router, React Hooks",
+    description: "A music-themed app with dynamic routing and state management using React Router.",
     link: "https://music-fs-jc87.vercel.app/",
+  },
+  {
+    title: "Landing Page with HTML, CSS, Bootstrap, JavaScript",
+    tools: "HTML, CSS, Bootstrap, JavaScript",
+    description: "A classic landing page with responsive design elements.",
+    link: "https://aritra-ad.github.io/web-project-1/",
+  },
+  {
+    title: "Website with React, Tailwind and React Hooks",
+    tools: "React.js, Tailwind CSS, React Hooks",
+    description: "A health-focused website with fast server-side rendering using Next.js.",
+    link: "https://doctor-pro.vercel.app/",
+  },
+  {
+    title: "Landing Page with React, Tailwind, and React Hooks",
+    tools: "React.js, Tailwind CSS, React Hooks",
+    description: "An educational web app with a modern UI and interactive features.",
+    link: "https://edu-web-nine.vercel.app/",
   }
 ]
 
